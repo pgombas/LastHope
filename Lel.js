@@ -11,3 +11,8 @@ wenn du neue datei erstellst:
 add
 commit
 push
+
+
+siehst du Initial Commit?ja refresh mal die seite
+
+mach du mal ein push
